@@ -1,12 +1,10 @@
 ## PineconeX
 
-**Backtest and live-trade Pine Script v6 strategies.** PineconeX is an
-independent interpreter and hosting platform for systematic traders: write a
+**Backtest and live-trade Pine Script v6 strategies.** PineconeX developed it's own proprietary interpreter and provides hosting platform for systematic traders: write a
 strategy, backtest it against historical data, optimise it, then run it live
 against your own broker account.
 
-At its core is a **proprietary Pine Script v6 interpreter written in Rust** 🦀 —
-fast, memory-safe, and built from the ground up.
+PineconeX has its own Pine Script v6 interpreter, written in Rust 🦀.
 
 🌲 **[pineconex.com](https://pineconex.com)**
 
