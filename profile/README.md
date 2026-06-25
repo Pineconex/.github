@@ -4,7 +4,7 @@
 strategy, backtest it against historical data, optimise it, then run it live
 against your own broker account.
 
-PineconeX has its own Pine Script v6 interpreter, written in Rust 🦀.
+PineconeX maintains the Pine Script v6 interpreter, written in Rust 🦀.
 
 🌲 **[pineconex.com](https://pineconex.com)**
 
